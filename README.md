@@ -1,16 +1,2 @@
-# timer
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Cooking Timer
+It is a Simple Single Page application specially designed for those people who do not know how to use the smart phone. Ui is kept simple and easy due to this reason![Colorful Web Domain Price List Instagram Post](https://github.com/mtalhahabib/Cooking_Timer/assets/96326069/6c5d0b4d-4b99-49b2-a8ef-5586fd2c6392)
